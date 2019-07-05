@@ -1,0 +1,15 @@
+# Primes Counter
+
+#Itroduction
+
+This is a basic prime number counter that works off a TCP connection,
+It takes in a range and returns the amount of prime numbers from the lower bound of the range to the midpoint of the range and the time taken to generate those numbers, the amount of prime numbers from the mid point of the range to it's upper bound and the amount of time taken to generate those numbers as well as the total number of primes in that interval.
+
+Written in Python3 with tkinter and tcl support.
+User Intefrace designed using PAGE.
+visit http://page.sourceforge.net/ for more infromation on PAGE or contact Don.Rozenberg@gmail.com.
+
+#Running Primes Counter
+
+To execute Primes Counter, simply run "sh .run.sh" on GNU-bash or any terminal with bash support.
+Or alternatively, run projectServer1.py, followed by projectServer2.py and GUI.py in seperate terminal windows in the stated order.
